@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Tigo Sports | HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tigo Sports | HD
+#EXTINF:-1 tvg-name="Tigo Sports | HD" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Tigo_Sports_logo.svg" group-title="Costa Rica NS",Tigo Sports | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=3735
 
-#EXTINF:-1 tvg-name="Tigo Sports. | HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tigo Sports. | HD
+#EXTINF:-1 tvg-name="Tigo Sports. | HD" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Tigo_Sports_logo.svg" group-title="Costa Rica NS",Tigo Sports. | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=54959
 
-#EXTINF:-1 tvg-name="FUTV | SD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",FUTV | SD
+#EXTINF:-1 tvg-name="FUTV | SD" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Logo_de_FUTV.svg" group-title="Costa Rica NS",FUTV | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=54957
 
 #EXTINF:-1 tvg-name="Colosal" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Colosal
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21275
 
-#EXTINF:-1 tvg-name="Tele UNO | HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tele UNO | HD
+#EXTINF:-1 tvg-name="Tele UNO | HD" tvg-logo="http://cablepacayas.com/wp-content/uploads/2016/08/Tele-Uno-Costa-Rica.png" group-title="Costa Rica NS",Tele UNO | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21274
 
-#EXTINF:-1 tvg-name="Tele UNO. | HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tele UNO. | HD
+#EXTINF:-1 tvg-name="Tele UNO. | HD" tvg-logo="http://cablepacayas.com/wp-content/uploads/2016/08/Tele-Uno-Costa-Rica.png" group-title="Costa Rica NS",Tele UNO. | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53564
 
 #EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal 2
@@ -27,7 +27,7 @@ http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21271
 #EXTINF:-1 tvg-name="Canal 7 Teletica | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Costa Rica NS",Canal 7 Teletica | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53569
 
-#EXTINF:-1 tvg-name="Canal Trece" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal Trece
+#EXTINF:-1 tvg-name="Canal Sinart" tvg-logo="https://ticourbano.com/wp-content/uploads/2019/02/Sinart-Costa-Rica.jpg" group-title="Costa Rica NS",Canal Sinart
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21273
 
 
@@ -77,7 +77,7 @@ http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53800
 #EXTINF:-1 tvg-name="Univision Noticias" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Noticia NS",Univision Noticias 
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53797
 
-#EXTINF:-1 tvg-name="France 24 en Español" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Noticia NS",France 24 en Español 
+#EXTINF:-1 tvg-name="France 24 en Español" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:France24.png" group-title="Noticia NS",France 24 en Español 
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53802
 
 
