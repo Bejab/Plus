@@ -34,6 +34,9 @@ http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21273
 
 
 
+
+
+
 #EXTINF:-1 tvg-name="Repretel 4" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_4.png" group-title="Costa Rica",Repretel 4
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8
 
@@ -62,6 +65,9 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 
 
+
+
+
 #EXTINF:-1 tvg-name="CNN en Español" tvg-logo="https://1.bp.blogspot.com/-EvQ65hBDha4/Xm5XsvwMm8I/AAAAAAAABbU/i6tLNE9eN4cHVxK_-It9hruH-81eLn16ACLcBGAsYHQ/s200/1.png" group-title="Noticia NS",CNN en Español | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=26932
 
@@ -79,6 +85,9 @@ http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53797
 
 #EXTINF:-1 tvg-name="France 24 en Español" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi.jpg" group-title="Noticia NS",France 24 en Español | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53802
+
+
+
 
 
 
@@ -155,3 +164,16 @@ http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1397
 
 #EXTINF:-1 tvg-name="INF-Universal Kids" tvg-logo="https://1.bp.blogspot.com/-bR09S10_R0s/Xpoa3YKDdZI/AAAAAAAABuw/9XTy-lSfk8ormXKKWD_TZeSTz8j_8ZOGACLcBGAsYHQ/s200/16.png" group-title="Kid NS",Universal Kids | HDN
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=27335
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons S01 a S20" tvg-logo="https://1.bp.blogspot.com/-9koNjDb9IDM/XcsQ5aBgsGI/AAAAAAAAA08/zLihKJMYMGEva9FFypcgSzD1sBPSNXbCgCLcBGAsYHQ/s200/the%2Bsimpsons.png" group-title="CANALES 24/7",24/7 Los Simpsons T01 a T20 
+http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=37767
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons S20 a S30 " tvg-logo="https://1.bp.blogspot.com/-09Sc7rPuKWY/Xj2B7kEPxPI/AAAAAAAABE0/om-2Z5cxb9YbPczSR-I28kZpyaasZZQkgCLcBGAsYHQ/s200/The%2Bsimpsons%2Bdual.png" group-title="CANALES 24/7",24/7 Los Simpsons T21 a T30  
+http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=37758
