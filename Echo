@@ -1,42 +1,35 @@
 #EXTM3U
 
 #EXTINF:-1 ,Tigo Sports 1
-#EXTGRP:Costa Rica NS
 tvg-logo="https://i.imgur.com/30HzeQe.png" 
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=3735
 
 #EXTINF:-1 ,Tele UNO
-#EXTGRP:Costa Rica NS
 tvg-logo="https://i.imgur.com/30HzeQe.png" 
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21274
 
 #EXTINF:-1 ,Teleuno
-#EXTGRP:Costa Rica NS
 tvg-logo="https://i.imgur.com/30HzeQe.png"  
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53564
 
 #EXTINF:-1 ,Canal Trece
-#EXTGRP:Costa Rica NS
 tvg-logo="https://i.imgur.com/30HzeQe.png" 
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21273
 
 
 #EXTINF:-1 ,Colosal
-#EXTGRP:Costa Rica NS
 tvg-logo="https://i.imgur.com/30HzeQe.png" 
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21275
 
 #EXTINF:-1 ,Canal 7 Teletica
-#EXTGRP:Costa RICA NS tvg-logo="https://i.imgur.com/30HzeQe.png" 
+tvg-logo="https://i.imgur.com/30HzeQe.png" 
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21271
 
 #EXTINF:-1 ,Canal 2
-#EXTGRP:Costa Rica NS
 tvg-logo="https://i.imgur.com/30HzeQe.png" 
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21268
 
 #EXTINF:-1 ,Canal 4 
-#EXTGRP:Costa Rica NS
 tvg-logo="https://i.imgur.com/30HzeQe.png" 
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21269
 
@@ -62,8 +55,7 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 tvg-logo="https://i.imgur.com/yr9M9Kj.png"
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 ,Repretel 11 
-#EXTGRP:Costa Rica
+#EXTINF:-1 ,Repretel 11
 tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_11.png" 
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8
 
@@ -73,7 +65,6 @@ tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_4.png"
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 ,Repretel 6 
-#EXTGRP:Costa Rica
 tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png" 
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8
 
