@@ -3,7 +3,6 @@
 #EXTINF:-1 tvg-name="Tigo Sports" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tigo Sports
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=3735
 
-
 #EXTINF:-1 tvg-name="Tigo Sports." tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tigo Sports.
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=54959
 
@@ -20,8 +19,11 @@ http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21273
 #EXTINF:-1 tvg-name="Colosal" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Colosal
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21275
 
-#EXTINF:-1 tvg-name="Canal 7 Teletica" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal 7 Teletica
+#EXTINF:-1 tvg-name="Canal 7 Teletica | SD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal 7 Teletica | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21271
+
+#EXTINF:-1 tvg-name="Canal 7 Teletica | HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal 7 Teletica | HD
+http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53569
 
 #EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal 2
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21268
