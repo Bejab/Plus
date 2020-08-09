@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="COSTA RICA",88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 group-title="COSTA RICA",Anexion TV 36
+http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
+
+#EXTINF:-1 group-title="COSTA RICA",Canal UCR
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+
+#EXTINF:-1 group-title="COSTA RICA",Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 group-title="COSTA RICA",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u
+
+#EXTINF:-1 group-title="COSTA RICA",Guapiles TV
+http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8
+
+#EXTINF:-1 group-title="COSTA RICA",Multimedios CR
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="COSTA RICA",Telered
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+
+#EXTINF:-1 group-title="COSTA RICA",Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 group-title="COSTA RICA",TeleUno TV
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+
+#EXTINF:-1 group-title="COSTA RICA",TicaVision
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 group-title="COSTA RICA",TV Sur 14
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
