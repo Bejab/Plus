@@ -1,33 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Tigo Sports | HD" tvg-logo="https://tigosports.gt/sites/default/files/logo-tigosports-junio.png" group-title="Costa Rica NS",Tigo Sports | HD
+#EXTINF:-1 tvg-name="Tigo Sports | HD" tvg-logo="https://tigosports.gt/sites/default/files/logo-tigosports-junio.png" group-title="COSTA RICA NS",Tigo Sports | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=3735
 
-#EXTINF:-1 tvg-name="Tigo Sports. | HD" tvg-logo="https://tigosports.gt/sites/default/files/logo-tigosports-junio.png" group-title="Costa Rica NS",Tigo Sports. | HD
+#EXTINF:-1 tvg-name="Tigo Sports. | HD" tvg-logo="https://tigosports.gt/sites/default/files/logo-tigosports-junio.png" group-title="COSTA RICA NS",Tigo Sports. | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=54959
 
-#EXTINF:-1 tvg-name="FUTV | SD" tvg-logo="https://pbs.twimg.com/profile_images/1219745079247679488/GeJuIFNf.jpg" group-title="Costa Rica NS",FUTV | SD
+#EXTINF:-1 tvg-name="FUTV | SD" tvg-logo="https://pbs.twimg.com/profile_images/1219745079247679488/GeJuIFNf.jpg" group-title="COSTA RICA NS",FUTV | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=54957
 
 #EXTINF:-1 tvg-name="Canal UCR" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal UCR | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21275
 
-#EXTINF:-1 tvg-name="Tele UNO | HD" tvg-logo="http://cablepacayas.com/wp-content/uploads/2016/08/Tele-Uno-Costa-Rica.png" group-title="Costa Rica NS",Tele UNO | HD
+#EXTINF:-1 tvg-name="Tele UNO | HD" tvg-logo="http://cablepacayas.com/wp-content/uploads/2016/08/Tele-Uno-Costa-Rica.png" group-title="COSTA RICA NS",Tele UNO | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21274
 
-#EXTINF:-1 tvg-name="Tele UNO. | HD" tvg-logo="http://cablepacayas.com/wp-content/uploads/2016/08/Tele-Uno-Costa-Rica.png" group-title="Costa Rica NS",Tele UNO. | HD
+#EXTINF:-1 tvg-name="Tele UNO. | HD" tvg-logo="http://cablepacayas.com/wp-content/uploads/2016/08/Tele-Uno-Costa-Rica.png" group-title="COSTA RICA NS",Tele UNO. | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53564
 
 #EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal 2 | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21268
 
-#EXTINF:-1 tvg-name="Canal 7 Teletica | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Costa Rica NS",Canal 7 Teletica | SD
+#EXTINF:-1 tvg-name="Canal 7 Teletica | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="COSTA RICA NS",Canal 7 Teletica | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21271
 
-#EXTINF:-1 tvg-name="Canal 7 Teletica | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Costa Rica NS",Canal 7 Teletica | HD
+#EXTINF:-1 tvg-name="Canal 7 Teletica | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="COSTA RICA NS",Canal 7 Teletica | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53569
 
-#EXTINF:-1 tvg-name="Canal Sinart" tvg-logo="https://ticourbano.com/wp-content/uploads/2019/02/Sinart-Costa-Rica.jpg" group-title="Costa Rica NS",Canal Sinart | HDN
+#EXTINF:-1 tvg-name="Canal Sinart" tvg-logo="https://ticourbano.com/wp-content/uploads/2019/02/Sinart-Costa-Rica.jpg" group-title="COSTA RICA NS",Canal Sinart | HDN
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21273
 
 
@@ -37,28 +37,28 @@ http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21273
 
 
 
-#EXTINF:-1 tvg-name="Repretel 4" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_4.png" group-title="Costa Rica",Repretel 4
+#EXTINF:-1 tvg-name="Repretel 4" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_4.png" group-title="COSTA RICA",Repretel 4
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Repretel 6" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png"  group-title="Costa Rica",Repretel 6
+#EXTINF:-1 tvg-name="Repretel 6" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png"  group-title="COSTA RICA",Repretel 6
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Repretel 11" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_11.png" group-title="Costa Rica",Repretel 11
+#EXTINF:-1 tvg-name="Repretel 11" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_11.png" group-title="COSTA RICA",Repretel 11
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Anexion TV" tvg-logo="https://i.imgur.com/PrOYyU1.png" group-title="Costa Rica",Anexion TV 
+#EXTINF:-1 tvg-name="Anexion TV" tvg-logo="https://i.imgur.com/PrOYyU1.png" group-title="COSTA RICA",Anexion TV 
 https://rtmp.info/anexiontv/envivo/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Extrema TV" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="Costa Rica",Extrema TV
+#EXTINF:-1 tvg-name="Extrema TV" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="COSTA RICA",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TicaVision" tvg-logo="https://i.imgur.com/pjRfKkr.jpg" group-title="Costa Rica",TicaVision
+#EXTINF:-1 tvg-name="TicaVision" tvg-logo="https://i.imgur.com/pjRfKkr.jpg" group-title="COSTA RICA",TicaVision
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Multimedios | SD+" tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="Costa Rica",Multimedios | SD++
+#EXTINF:-1 tvg-name="Multimedios | SD+" tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="COSTA RICA",Multimedios | SD++
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-name="Telesur" tvg-logo="https://i.imgur.com/r5p97Ex.jpg"  group-title="Costa Rica",Telesur
+#EXTINF:-1 tvg-name="Telesur" tvg-logo="https://i.imgur.com/r5p97Ex.jpg"  group-title="COSTA RICA",Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 
@@ -68,22 +68,22 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="CNN en Español" tvg-logo="https://1.bp.blogspot.com/-EvQ65hBDha4/Xm5XsvwMm8I/AAAAAAAABbU/i6tLNE9eN4cHVxK_-It9hruH-81eLn16ACLcBGAsYHQ/s200/1.png" group-title="Noticia NS",CNN en Español | SD
+#EXTINF:-1 tvg-name="CNN en Español" tvg-logo="https://1.bp.blogspot.com/-EvQ65hBDha4/Xm5XsvwMm8I/AAAAAAAABbU/i6tLNE9eN4cHVxK_-It9hruH-81eLn16ACLcBGAsYHQ/s200/1.png" group-title="NOTICIA NS",CNN en Español | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=26932
 
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://1.bp.blogspot.com/-bIt6cFjY83E/Xm5Xt7QIQ7I/AAAAAAAABbo/BWlM_fR5IjQpd6KNZ6uikhy5f1fxQ-YOwCLcBGAsYHQ/s200/6.png" group-title="Noticia NS",DW | HDN
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://1.bp.blogspot.com/-bIt6cFjY83E/Xm5Xt7QIQ7I/AAAAAAAABbo/BWlM_fR5IjQpd6KNZ6uikhy5f1fxQ-YOwCLcBGAsYHQ/s200/6.png" group-title="NOTICIA NS",DW | HDN
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1293
 
-#EXTINF:-1 tvg-name="RCN Noticias" tvg-logo="https://1.bp.blogspot.com/-NfsM6-DuY8o/Xm5Xua5q5WI/AAAAAAAABbs/CIgR5WuUk4001BoqcJQ5vgnfGzFiqwAdwCLcBGAsYHQ/s200/7.png" group-title="Noticia NS",RCN Noticias | SD
+#EXTINF:-1 tvg-name="RCN Noticias" tvg-logo="https://1.bp.blogspot.com/-NfsM6-DuY8o/Xm5Xua5q5WI/AAAAAAAABbs/CIgR5WuUk4001BoqcJQ5vgnfGzFiqwAdwCLcBGAsYHQ/s200/7.png" group-title="NOTICIA NS",RCN Noticias | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1292
 
-#EXTINF:-1 tvg-name="RT en Español" tvg-logo="https://pbs.twimg.com/profile_images/1267497856778240001/npUcyqTx.jpg" group-title="Noticia NS",RT en Español | HDN
+#EXTINF:-1 tvg-name="RT en Español" tvg-logo="https://pbs.twimg.com/profile_images/1267497856778240001/npUcyqTx.jpg" group-title="NOTICIA NS",RT en Español | HDN
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53800
 
-#EXTINF:-1 tvg-name="Univision Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1090017478888079361/f0-ePeRX.jpg" group-title="Noticia NS",Univision Noticias | HDN
+#EXTINF:-1 tvg-name="Univision Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1090017478888079361/f0-ePeRX.jpg" group-title="NOTICIA NS",Univision Noticias | HDN
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53797
 
-#EXTINF:-1 tvg-name="France 24 en Español" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi.jpg" group-title="Noticia NS",France 24 en Español | HD
+#EXTINF:-1 tvg-name="France 24 en Español" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi.jpg" group-title="NOTICIA NS",France 24 en Español | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53802
 
 
@@ -93,76 +93,76 @@ http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53802
 
 
 
-#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://1.bp.blogspot.com/-QpOaYsWgcPg/XbCJ8KR8dqI/AAAAAAAAAnM/ZbLWuXslEYs_34QSlNCN1NxCJD_LIhEjQCLcBGAsYHQ/s200/3.png" group-title="Kid NS",Boomerang | HDN
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://1.bp.blogspot.com/-QpOaYsWgcPg/XbCJ8KR8dqI/AAAAAAAAAnM/ZbLWuXslEYs_34QSlNCN1NxCJD_LIhEjQCLcBGAsYHQ/s200/3.png" group-title="KID NS",Boomerang | HDN
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1886
 
-#EXTINF:-1 tvg-name="Boomerang." tvg-logo="https://1.bp.blogspot.com/-QpOaYsWgcPg/XbCJ8KR8dqI/AAAAAAAAAnM/ZbLWuXslEYs_34QSlNCN1NxCJD_LIhEjQCLcBGAsYHQ/s200/3.png" group-title="Kid NS",Boomerang | HD
+#EXTINF:-1 tvg-name="Boomerang." tvg-logo="https://1.bp.blogspot.com/-QpOaYsWgcPg/XbCJ8KR8dqI/AAAAAAAAAnM/ZbLWuXslEYs_34QSlNCN1NxCJD_LIhEjQCLcBGAsYHQ/s200/3.png" group-title="KID NS",Boomerang | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1370
 
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="Kid NS",Cartoon Network | HD
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="KID NS",Cartoon Network | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=26884
 
-#EXTINF:-1 tvg-name="Cartoon Network." tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="Kid NS",Cartoon Network. | HD
+#EXTINF:-1 tvg-name="Cartoon Network." tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="KID NS",Cartoon Network. | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1372
 
-#EXTINF:-1 tvg-name="Discovery Kids." tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="Kid NS",Discovery Kids | HD
+#EXTINF:-1 tvg-name="Discovery Kids." tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="KID NS",Discovery Kids | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1375
 
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://1.bp.blogspot.com/-jC_71uPSavo/XbCJ81p6qLI/AAAAAAAAAnY/Exgk_229xPQY-vQB55oAWD9a9gO5Ep-sACLcBGAsYHQ/s200/6.png" group-title="Kid NS",Disney Channel | HDN
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://1.bp.blogspot.com/-jC_71uPSavo/XbCJ81p6qLI/AAAAAAAAAnY/Exgk_229xPQY-vQB55oAWD9a9gO5Ep-sACLcBGAsYHQ/s200/6.png" group-title="KID NS",Disney Channel | HDN
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1890
 
-#EXTINF:-1 tvg-name="Disney Channel." tvg-logo="https://1.bp.blogspot.com/-jC_71uPSavo/XbCJ81p6qLI/AAAAAAAAAnY/Exgk_229xPQY-vQB55oAWD9a9gO5Ep-sACLcBGAsYHQ/s200/6.png" group-title="Kid NS",Disney Channel | HD
+#EXTINF:-1 tvg-name="Disney Channel." tvg-logo="https://1.bp.blogspot.com/-jC_71uPSavo/XbCJ81p6qLI/AAAAAAAAAnY/Exgk_229xPQY-vQB55oAWD9a9gO5Ep-sACLcBGAsYHQ/s200/6.png" group-title="KID NS",Disney Channel | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1377
 
-#EXTINF:-1 tvg-name="Disney Jr" tvg-logo="https://1.bp.blogspot.com/-UbKrve2iADs/XbCJ9H4V49I/AAAAAAAAAnc/P_zFX6qME9sp29_KgVUdMq7lGghzeE7FACLcBGAsYHQ/s200/7.png" group-title="Kid NS",Disney Jr | SD+
+#EXTINF:-1 tvg-name="Disney Jr" tvg-logo="https://1.bp.blogspot.com/-UbKrve2iADs/XbCJ9H4V49I/AAAAAAAAAnc/P_zFX6qME9sp29_KgVUdMq7lGghzeE7FACLcBGAsYHQ/s200/7.png" group-title="KID NS",Disney Jr | SD+
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1889
 
-#EXTINF:-1 tvg-name="Disney Jr." tvg-logo="https://1.bp.blogspot.com/-UbKrve2iADs/XbCJ9H4V49I/AAAAAAAAAnc/P_zFX6qME9sp29_KgVUdMq7lGghzeE7FACLcBGAsYHQ/s200/7.png" group-title="Kid NS",Disney Jr | SD
+#EXTINF:-1 tvg-name="Disney Jr." tvg-logo="https://1.bp.blogspot.com/-UbKrve2iADs/XbCJ9H4V49I/AAAAAAAAAnc/P_zFX6qME9sp29_KgVUdMq7lGghzeE7FACLcBGAsYHQ/s200/7.png" group-title="KID NS",Disney Jr | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1379
 
-#EXTINF:-1 tvg-name="Disney XD | SD" tvg-logo="https://1.bp.blogspot.com/-la6wQsNvPkk/XbCJ9aXLrrI/AAAAAAAAAng/NsMAaJHexuIS7mtHiiEP51S_IPsZCufBACLcBGAsYHQ/s200/8.png" group-title="Kid NS",Disney XD | SD
+#EXTINF:-1 tvg-name="Disney XD | SD" tvg-logo="https://1.bp.blogspot.com/-la6wQsNvPkk/XbCJ9aXLrrI/AAAAAAAAAng/NsMAaJHexuIS7mtHiiEP51S_IPsZCufBACLcBGAsYHQ/s200/8.png" group-title="KID NS",Disney XD | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1888
 
-#EXTINF:-1 tvg-name="Disney XD | HD" tvg-logo="https://1.bp.blogspot.com/-la6wQsNvPkk/XbCJ9aXLrrI/AAAAAAAAAng/NsMAaJHexuIS7mtHiiEP51S_IPsZCufBACLcBGAsYHQ/s200/8.png" group-title="Kid NS",Disney XD | HD
+#EXTINF:-1 tvg-name="Disney XD | HD" tvg-logo="https://1.bp.blogspot.com/-la6wQsNvPkk/XbCJ9aXLrrI/AAAAAAAAAng/NsMAaJHexuIS7mtHiiEP51S_IPsZCufBACLcBGAsYHQ/s200/8.png" group-title="KID NS",Disney XD | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1382
 
-#EXTINF:-1 tvg-name="Nat Kids" tvg-logo="https://1.bp.blogspot.com/-CjJgP7YCc4c/XbCJ9uAD9nI/AAAAAAAAAnk/SN0eiHG0mLYacr-yJxXLLelJg2hOPNqHgCLcBGAsYHQ/s200/9.png" group-title="Kid NS",Nat  Kids | HD
+#EXTINF:-1 tvg-name="Nat Kids" tvg-logo="https://1.bp.blogspot.com/-CjJgP7YCc4c/XbCJ9uAD9nI/AAAAAAAAAnk/SN0eiHG0mLYacr-yJxXLLelJg2hOPNqHgCLcBGAsYHQ/s200/9.png" group-title="KID NS",Nat  Kids | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1385
 
-#EXTINF:-1 tvg-name="Nat Kids." tvg-logo="https://1.bp.blogspot.com/-CjJgP7YCc4c/XbCJ9uAD9nI/AAAAAAAAAnk/SN0eiHG0mLYacr-yJxXLLelJg2hOPNqHgCLcBGAsYHQ/s200/9.png" group-title="Kid NS",Nat Kids. | HD
+#EXTINF:-1 tvg-name="Nat Kids." tvg-logo="https://1.bp.blogspot.com/-CjJgP7YCc4c/XbCJ9uAD9nI/AAAAAAAAAnk/SN0eiHG0mLYacr-yJxXLLelJg2hOPNqHgCLcBGAsYHQ/s200/9.png" group-title="KID NS",Nat Kids. | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=26888
 
-#EXTINF:-1 tvg-name="INF-Nick" tvg-logo="https://1.bp.blogspot.com/-ienC4RYwebg/XbCJ6586sGI/AAAAAAAAAm4/Tnw_2TQefvEA0V1OwlajeJl3hfSo27oEQCLcBGAsYHQ/s200/12.png" group-title="Kid NS",Nick | HD
+#EXTINF:-1 tvg-name="INF-Nick" tvg-logo="https://1.bp.blogspot.com/-ienC4RYwebg/XbCJ6586sGI/AAAAAAAAAm4/Tnw_2TQefvEA0V1OwlajeJl3hfSo27oEQCLcBGAsYHQ/s200/12.png" group-title="KID NS",Nick | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1387
 
-#EXTINF:-1 tvg-name="INF-Nick 2" tvg-logo="https://1.bp.blogspot.com/-dFHl1z4YcQk/XbCJ6BgemaI/AAAAAAAAAm0/aQt5GvD7r5ATZetNP-4LfG1aS01FsKnMgCLcBGAsYHQ/s200/10.png" group-title="Kid NS",Nick 2 | HDN
+#EXTINF:-1 tvg-name="INF-Nick 2" tvg-logo="https://1.bp.blogspot.com/-dFHl1z4YcQk/XbCJ6BgemaI/AAAAAAAAAm0/aQt5GvD7r5ATZetNP-4LfG1aS01FsKnMgCLcBGAsYHQ/s200/10.png" group-title="KID NS",Nick 2 | HDN
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1891
 
-#EXTINF:-1 tvg-name="INF-Nick Jr" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="Kid NS",Nick Jr | HDN
+#EXTINF:-1 tvg-name="INF-Nick Jr" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="KID NS",Nick Jr | HDN
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1392
 
-#EXTINF:-1 tvg-name="INF-Nick Jr" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="Kid NS",Nick Jr. | HDN
+#EXTINF:-1 tvg-name="INF-Nick Jr" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="KID NS",Nick Jr. | HDN
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1393
 
-#EXTINF:-1 tvg-name="INF-Nickelodeon" tvg-logo="https://1.bp.blogspot.com/-556Wpt2x81s/XbCJ7J0zvgI/AAAAAAAAAm8/M-3PaCQ6EsE1NBCXLOXvyNWVyL62gvJhQCLcBGAsYHQ/s200/13.png" group-title="Kid NS",Nickelodeon | HD
+#EXTINF:-1 tvg-name="INF-Nickelodeon" tvg-logo="https://1.bp.blogspot.com/-556Wpt2x81s/XbCJ7J0zvgI/AAAAAAAAAm8/M-3PaCQ6EsE1NBCXLOXvyNWVyL62gvJhQCLcBGAsYHQ/s200/13.png" group-title="KID NS",Nickelodeon | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=26885
 
-#EXTINF:-1 tvg-name="INF-Nicktoons" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="Kid NS",Nicktoons | SD
+#EXTINF:-1 tvg-name="INF-Nicktoons" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="KID NS",Nicktoons | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1394
 
-#EXTINF:-1 tvg-name="INF-Nicktoons" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="Kid NS",Nicktoons | SD+
+#EXTINF:-1 tvg-name="INF-Nicktoons" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="KID NS",Nicktoons | SD+
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1395
 
-#EXTINF:-1 tvg-name="INF-Semillitas" tvg-logo="https://1.bp.blogspot.com/-ou3QlsQyM4E/XxCKMY9I9ZI/AAAAAAAAAb8/epz1DIcI-OQj4VHLXzCiwLwp_s-ponDRACLcBGAsYHQ/w200-h200/Semillitas.png" group-title="Kid NS",Semillitas | SD
+#EXTINF:-1 tvg-name="INF-Semillitas" tvg-logo="https://1.bp.blogspot.com/-ou3QlsQyM4E/XxCKMY9I9ZI/AAAAAAAAAb8/epz1DIcI-OQj4VHLXzCiwLwp_s-ponDRACLcBGAsYHQ/w200-h200/Semillitas.png" group-title="KID NS",Semillitas | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53242
 
-#EXTINF:-1 tvg-name="INF-Tooncast" tvg-logo="https://1.bp.blogspot.com/-ilF13a10Ezk/XbCJ7kw7jxI/AAAAAAAAAnE/7IuCyG1j-J0vgluvh4osCiMq6zQUmv8pwCLcBGAsYHQ/s200/15.png" group-title="Kid NS",Tooncast | SD
+#EXTINF:-1 tvg-name="INF-Tooncast" tvg-logo="https://1.bp.blogspot.com/-ilF13a10Ezk/XbCJ7kw7jxI/AAAAAAAAAnE/7IuCyG1j-J0vgluvh4osCiMq6zQUmv8pwCLcBGAsYHQ/s200/15.png" group-title="KID NS",Tooncast | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1396
 
-#EXTINF:-1 tvg-name="INF-Tooncast" tvg-logo="https://1.bp.blogspot.com/-ilF13a10Ezk/XbCJ7kw7jxI/AAAAAAAAAnE/7IuCyG1j-J0vgluvh4osCiMq6zQUmv8pwCLcBGAsYHQ/s200/15.png" group-title="Kid NS",Tooncast | SD+
+#EXTINF:-1 tvg-name="INF-Tooncast" tvg-logo="https://1.bp.blogspot.com/-ilF13a10Ezk/XbCJ7kw7jxI/AAAAAAAAAnE/7IuCyG1j-J0vgluvh4osCiMq6zQUmv8pwCLcBGAsYHQ/s200/15.png" group-title="KID NS",Tooncast | SD+
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1397
 
-#EXTINF:-1 tvg-name="INF-Universal Kids" tvg-logo="https://1.bp.blogspot.com/-bR09S10_R0s/Xpoa3YKDdZI/AAAAAAAABuw/9XTy-lSfk8ormXKKWD_TZeSTz8j_8ZOGACLcBGAsYHQ/s200/16.png" group-title="Kid NS",Universal Kids | HDN
+#EXTINF:-1 tvg-name="INF-Universal Kids" tvg-logo="https://1.bp.blogspot.com/-bR09S10_R0s/Xpoa3YKDdZI/AAAAAAAABuw/9XTy-lSfk8ormXKKWD_TZeSTz8j_8ZOGACLcBGAsYHQ/s200/16.png" group-title="KID NS",Universal Kids | HDN
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=27335
 
 
