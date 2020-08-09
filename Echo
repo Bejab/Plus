@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Tigo Sports | HD" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Tigo_Sports_logo.svg" group-title="Costa Rica NS",Tigo Sports | HD
+#EXTINF:-1 tvg-name="Tigo Sports | HD" tvg-logo="https://tigosports.gt/sites/default/files/logo-tigosports-junio.png" group-title="Costa Rica NS",Tigo Sports | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=3735
 
-#EXTINF:-1 tvg-name="Tigo Sports. | HD" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Tigo_Sports_logo.svg" group-title="Costa Rica NS",Tigo Sports. | HD
+#EXTINF:-1 tvg-name="Tigo Sports. | HD" tvg-logo="https://tigosports.gt/sites/default/files/logo-tigosports-junio.png" group-title="Costa Rica NS",Tigo Sports. | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=54959
 
-#EXTINF:-1 tvg-name="FUTV | SD" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Logo_de_FUTV.svg" group-title="Costa Rica NS",FUTV | SD
+#EXTINF:-1 tvg-name="FUTV | SD" tvg-logo="http://cablepacayas.com/wp-content/uploads/2016/08/logo1-500x470.png" group-title="Costa Rica NS",FUTV | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=54957
 
 #EXTINF:-1 tvg-name="Colosal" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Colosal
@@ -71,13 +71,13 @@ http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1293
 #EXTINF:-1 tvg-name="RCN Noticias" tvg-logo="https://1.bp.blogspot.com/-NfsM6-DuY8o/Xm5Xua5q5WI/AAAAAAAABbs/CIgR5WuUk4001BoqcJQ5vgnfGzFiqwAdwCLcBGAsYHQ/s200/7.png" group-title="Noticia NS",RCN Noticias
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1292
 
-#EXTINF:-1 tvg-name="RT en Español" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Noticia NS",RT en Español 
+#EXTINF:-1 tvg-name="RT en Español" tvg-logo="https://pbs.twimg.com/profile_images/1267497856778240001/npUcyqTx.jpg" group-title="Noticia NS",RT en Español 
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53800
 
 #EXTINF:-1 tvg-name="Univision Noticias" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Noticia NS",Univision Noticias 
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53797
 
-#EXTINF:-1 tvg-name="France 24 en Español" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:France24.png" group-title="Noticia NS",France 24 en Español 
+#EXTINF:-1 tvg-name="France 24 en Español" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi.jpg" group-title="Noticia NS",France 24 en Español 
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53802
 
 
