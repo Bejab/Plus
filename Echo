@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Tigo Sports" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tigo Sports
+#EXTINF:-1 tvg-name="Tigo Sports | HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tigo Sports
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=3735
 
-#EXTINF:-1 tvg-name="Tigo Sports." tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tigo Sports.
+#EXTINF:-1 tvg-name="Tigo Sports. | HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tigo Sports.
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=54959
 
-#EXTINF:-1 tvg-name="Tele UNO" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tele UNO
+#EXTINF:-1 tvg-name="Tele UNO | HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tele UNO
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21274
 
-#EXTINF:-1 tvg-name="Tele UNO." tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tele UNO.
+#EXTINF:-1 tvg-name="Tele UNO. | HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tele UNO.
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53564
 
 #EXTINF:-1 tvg-name="Canal Trece" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal Trece
