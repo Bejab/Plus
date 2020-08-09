@@ -1,89 +1,85 @@
 #EXTM3U
 ***NOTHING***
 
-#EXTINF:-1, Tigo Sports 1
-#EXTGRP:Costa Rica NS
+#EXTINF:-1, Tigo Sports
 tvg-logo="https://i.imgur.com/30HzeQe.png" 
+group-title="Costa Rica NS",Tigo Sports
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=3735
 
 #EXTINF:-1, Tele UNO
-#EXTGRP:Costa Rica NS
 tvg-logo="https://i.imgur.com/30HzeQe.png" 
+group-title="Costa Rica NS",Tele UNO
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21274
 
 #EXTINF:-1, Teleuno
-#EXTGRP:Costa Rica NS
 tvg-logo="https://i.imgur.com/30HzeQe.png"  
+group-title="Costa Rica NS",Teleuno
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53564
 
 #EXTINF:-1, Canal Trece
-#EXTGRP:Costa Rica NS
 tvg-logo="https://i.imgur.com/30HzeQe.png" 
+group-title="Costa Rica NS",Canal Trece
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21273
 
 
 #EXTINF:-1, Colosal
-#EXTGRP:Costa Rica NS
 tvg-logo="https://i.imgur.com/30HzeQe.png" 
+group-title="Costa Rica NS",Colosal
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21275
 
 #EXTINF:-1, Canal 7 Teletica
-#EXTGRP:Costa RICA NS tvg-logo="https://i.imgur.com/30HzeQe.png" 
+tvg-logo="https://i.imgur.com/30HzeQe.png" 
+group-title="Costa Rica NS",Canal 7 Teletica
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21271
 
 #EXTINF:-1, Canal 2
-#EXTGRP:Costa Rica NS
 tvg-logo="https://i.imgur.com/30HzeQe.png" 
+group-title="Costa Rica NS",Canal 2
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21268
 
 #EXTINF:-1, Canal 4 
-#EXTGRP:Costa Rica NS
-tvg-logo="https://i.imgur.com/30HzeQe.png" 
+tvg-logo="https://i.imgur.com/30HzeQe.png"
+group-title="Costa Rica NS",Canal 4 
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21269
 
 
 
 #EXTINF:-1,Anexion TV
-#EXTGRP:Costa Rica 
-tvg-logo="https://i.imgur.com/PrOYyU1.png" 
+tvg-logo="https://i.imgur.com/PrOYyU1.png"
+group-title="Costa Rica",Anexion TV 
 https://rtmp.info/anexiontv/envivo/playlist.m3u8
 
 #EXTINF:-1,Extrema TV 
-#EXTGRP:Costa Rica
 tvg-logo="https://i.imgur.com/E9AuhOU.png"
+group-title="Costa Rica",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1,HBTV TICAVISION 
-#EXTGRP:Costa Rica
-tvg-logo="https://i.imgur.com/pjRfKkr.jpg" 
+tvg-logo="https://i.imgur.com/pjRfKkr.jpg"
+group-title="Costa Rica", HBTV TICAVISION 
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
 #EXTINF:-1,HBTV TICAVISION 
-#EXTGRP:Costa Rica
 tvg-logo="https://i.imgur.com/yr9M9Kj.png"
+group-title="Costa Rica", HBTV TICAVISION
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1,Repretel 11 
-#EXTGRP:Costa Rica
 tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_11.png" 
+group-title="Costa Rica",Repretel 11
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1,Repretel 4 
-#EXTGRP:Costa Rica
 tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_4.png"
+group-title="Costa Rica",Repretel 4
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1,Repretel 6 
-#EXTGRP:Costa Rica
 tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png" 
+group-title="Costa Rica",Repretel 6
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1,Telesur 
-#EXTGRP:Costa Rica
 tvg-logo="https://i.imgur.com/r5p97Ex.jpg" 
+group-title="Costa Rica",Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
-
-
-
-
