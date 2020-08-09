@@ -6,18 +6,17 @@ http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=3735
 #EXTINF:-1 tvg-name="Tigo Sports. | HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tigo Sports. | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=54959
 
+#EXTINF:-1 tvg-name="Colosal" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Colosal
+http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21275
+
 #EXTINF:-1 tvg-name="Tele UNO | HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tele UNO | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21274
 
 #EXTINF:-1 tvg-name="Tele UNO. | HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Tele UNO. | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53564
 
-#EXTINF:-1 tvg-name="Canal Trece" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal Trece
-http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21273
-
-
-#EXTINF:-1 tvg-name="Colosal" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Colosal
-http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21275
+#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal 2
+http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21268
 
 #EXTINF:-1 tvg-name="Canal 7 Teletica | SD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal 7 Teletica | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21271
@@ -25,13 +24,21 @@ http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21271
 #EXTINF:-1 tvg-name="Canal 7 Teletica | HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal 7 Teletica | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53569
 
-#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal 2
-http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21268
-
-#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal 4 
-http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21269
+#EXTINF:-1 tvg-name="Canal Trece" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal Trece
+http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21273
 
 
+
+
+
+#EXTINF:-1 tvg-name="Repretel 4" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_4.png" group-title="Costa Rica",Repretel 4
+https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Repretel 6" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png"  group-title="Costa Rica",Repretel 6
+https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Repretel 11" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_11.png" group-title="Costa Rica",Repretel 11
+https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Anexion TV" tvg-logo="https://i.imgur.com/PrOYyU1.png" group-title="Costa Rica",Anexion TV 
 https://rtmp.info/anexiontv/envivo/playlist.m3u8
@@ -44,15 +51,6 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Multimedios | SD+" tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="Costa Rica",Multimedios | SD+
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-
-#EXTINF:-1 tvg-name="Repretel 11" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_11.png" group-title="Costa Rica",Repretel 11
-https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Repretel 4" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_4.png" group-title="Costa Rica",Repretel 4
-https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Repretel 6" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png"  group-title="Costa Rica",Repretel 6
-https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Telesur" tvg-logo="https://i.imgur.com/r5p97Ex.jpg"  group-title="Costa Rica",Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
