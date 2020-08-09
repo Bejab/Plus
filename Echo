@@ -9,7 +9,7 @@ http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=54959
 #EXTINF:-1 tvg-name="FUTV | SD" tvg-logo="https://pbs.twimg.com/profile_images/1219745079247679488/GeJuIFNf.jpg" group-title="Costa Rica NS",FUTV | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=54957
 
-#EXTINF:-1 tvg-name="Colosal" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Colosal
+#EXTINF:-1 tvg-name="Canal UCR" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal UCR | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21275
 
 #EXTINF:-1 tvg-name="Tele UNO | HD" tvg-logo="http://cablepacayas.com/wp-content/uploads/2016/08/Tele-Uno-Costa-Rica.png" group-title="Costa Rica NS",Tele UNO | HD
@@ -18,7 +18,7 @@ http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21274
 #EXTINF:-1 tvg-name="Tele UNO. | HD" tvg-logo="http://cablepacayas.com/wp-content/uploads/2016/08/Tele-Uno-Costa-Rica.png" group-title="Costa Rica NS",Tele UNO. | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53564
 
-#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal 2
+#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Costa Rica NS",Canal 2 | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21268
 
 #EXTINF:-1 tvg-name="Canal 7 Teletica | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Costa Rica NS",Canal 7 Teletica | SD
@@ -27,7 +27,7 @@ http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21271
 #EXTINF:-1 tvg-name="Canal 7 Teletica | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Costa Rica NS",Canal 7 Teletica | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53569
 
-#EXTINF:-1 tvg-name="Canal Sinart" tvg-logo="https://ticourbano.com/wp-content/uploads/2019/02/Sinart-Costa-Rica.jpg" group-title="Costa Rica NS",Canal Sinart
+#EXTINF:-1 tvg-name="Canal Sinart" tvg-logo="https://ticourbano.com/wp-content/uploads/2019/02/Sinart-Costa-Rica.jpg" group-title="Costa Rica NS",Canal Sinart | HDN
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=21273
 
 
@@ -62,22 +62,22 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="CNN en Español" tvg-logo="https://1.bp.blogspot.com/-EvQ65hBDha4/Xm5XsvwMm8I/AAAAAAAABbU/i6tLNE9eN4cHVxK_-It9hruH-81eLn16ACLcBGAsYHQ/s200/1.png" group-title="Noticia NS",CNN en Español
+#EXTINF:-1 tvg-name="CNN en Español" tvg-logo="https://1.bp.blogspot.com/-EvQ65hBDha4/Xm5XsvwMm8I/AAAAAAAABbU/i6tLNE9eN4cHVxK_-It9hruH-81eLn16ACLcBGAsYHQ/s200/1.png" group-title="Noticia NS",CNN en Español | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=26932
 
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://1.bp.blogspot.com/-bIt6cFjY83E/Xm5Xt7QIQ7I/AAAAAAAABbo/BWlM_fR5IjQpd6KNZ6uikhy5f1fxQ-YOwCLcBGAsYHQ/s200/6.png" group-title="Noticia NS",DW
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://1.bp.blogspot.com/-bIt6cFjY83E/Xm5Xt7QIQ7I/AAAAAAAABbo/BWlM_fR5IjQpd6KNZ6uikhy5f1fxQ-YOwCLcBGAsYHQ/s200/6.png" group-title="Noticia NS",DW | HDN
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1293
 
-#EXTINF:-1 tvg-name="RCN Noticias" tvg-logo="https://1.bp.blogspot.com/-NfsM6-DuY8o/Xm5Xua5q5WI/AAAAAAAABbs/CIgR5WuUk4001BoqcJQ5vgnfGzFiqwAdwCLcBGAsYHQ/s200/7.png" group-title="Noticia NS",RCN Noticias
+#EXTINF:-1 tvg-name="RCN Noticias" tvg-logo="https://1.bp.blogspot.com/-NfsM6-DuY8o/Xm5Xua5q5WI/AAAAAAAABbs/CIgR5WuUk4001BoqcJQ5vgnfGzFiqwAdwCLcBGAsYHQ/s200/7.png" group-title="Noticia NS",RCN Noticias | SD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=1292
 
-#EXTINF:-1 tvg-name="RT en Español" tvg-logo="https://pbs.twimg.com/profile_images/1267497856778240001/npUcyqTx.jpg" group-title="Noticia NS",RT en Español 
+#EXTINF:-1 tvg-name="RT en Español" tvg-logo="https://pbs.twimg.com/profile_images/1267497856778240001/npUcyqTx.jpg" group-title="Noticia NS",RT en Español | HDN
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53800
 
-#EXTINF:-1 tvg-name="Univision Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1090017478888079361/f0-ePeRX.jpg" group-title="Noticia NS",Univision Noticias 
+#EXTINF:-1 tvg-name="Univision Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1090017478888079361/f0-ePeRX.jpg" group-title="Noticia NS",Univision Noticias | HDN
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53797
 
-#EXTINF:-1 tvg-name="France 24 en Español" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi.jpg" group-title="Noticia NS",France 24 en Español 
+#EXTINF:-1 tvg-name="France 24 en Español" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi.jpg" group-title="Noticia NS",France 24 en Español | HD
 http://tvpremiumhd.club/lista-gratuita/212508/tv/live.php?id=53802
 
 
