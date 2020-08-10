@@ -26,28 +26,28 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
 
 
-#EXTINF:-1,Anexion TV group-title="COSTA RICA" tvg-logo="https://i.imgur.com/PrOYyU1.png" 
+#EXTINF:-1 TV group-title="COSTA RICA" tvg-logo="https://i.imgur.com/PrOYyU1.png", Anexion TV
 https://rtmp.info/anexiontv/envivo/playlist.m3u8
 
-#EXTINF:-1,Extrema TV group-title="COSTA RICA" tvg-logo="https://i.imgur.com/E9AuhOU.png"
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/E9AuhOU.png",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,HBTV TICAVISION group-title="COSTA RICA" tvg-logo="https://i.imgur.com/pjRfKkr.jpg" 
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/pjRfKkr.jpg",HBTV TICAVISION
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1,HBTV TICAVISION group-title="COSTA RICA" tvg-logo="https://i.imgur.com/yr9M9Kj.png"
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/yr9M9Kj.png",HBTV TICAVISION
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1,Repretel 11 group-title="COSTA RICA" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_11.png" 
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_11.png",Repretel 11
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1,Repretel 4 group-title="COSTA RICA" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_4.png"
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_4.png",Repretel 4
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1,Repretel 6 group-title="COSTA RICA" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png" 
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png" ,Repretel 6
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1,Telesur group-title="COSTA RICA" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" 
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" ,Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 
@@ -55,98 +55,98 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 
 
-#EXTINF:-1,BEIN SPORTS group-title="DEPORTES" 
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS
 https://speedmindec.tecltda.club/speedmind456123789V1/71_.m3u8
 
-#EXTINF:-1,CINECANAL group-title="ENTRETENIMIENTO" 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",CINECANAL
 https://speedmindec.tecltda.club/speedmind456123789V1/59_.m3u8
 
-#EXTINF:-1,CNN group-title="NOTICIAS"
+#EXTINF:-1 group-title="NOTICIAS", CNN
 https://speedmindecV2.tecltda.club/speedmind456123789V2/12_.m3u8
 
-#EXTINF:-1,DIRECTV PLUS group-title="ENTRETENIMIENTO"
+#EXTINF:-1 group-title="ENTRETENIMIENTO",DIRECTV PLUS
 https://speedmindec.tecltda.club/speedmind456123789V1/41_.m3u8
 
-#EXTINF:-1,DIRECTV SPORT group-title="DEPORTES"
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORT
 https://speedmindec.tecltda.club/speedmind456123789V1/43_.m3u8
 
-#EXTINF:-1,DIRECTV SPORTS 2 group-title="DEPORTES"
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS 2
 https://speedmindec.tecltda.club/speedmind456123789V1/42_.m3u8
 
-#EXTINF:-1,DISCOVERY CHANNEL group-title="DOCUMENTALES"
+#EXTINF:-1 group-title="DOCUMENTALES",DISCOVERY CHANNEL
 https://speedmindec.tecltda.club/speedmind456123789V1/63_.m3u8
 
-#EXTINF:-1,DISCOVERY H&H HD group-title="DOCUMENTALES"
+#EXTINF:-1 group-title="DOCUMENTALES",DISCOVERY H&H HD
 https://speedmindec.tecltda.club/speedmind456123789V1/62_.m3u8
 
-#EXTINF:-1,DISCOVERY SCIENCE HD group-title="DOCUMENTALES"
+#EXTINF:-1 group-title="DOCUMENTALES",DISCOVERY SCIENCE HD
 https://speedmindec.tecltda.club/speedmind456123789V1/61_.m3u8
 
-#EXTINF:-1,DISNEY CHANNEL group-title="KIDS"
+#EXTINF:-1 group-title="KIDS",DISNEY CHANNEL
 https://speedmindec.tecltda.club/speedmind456123789V1/58_.m3u8
 
-#EXTINF:-1,DISNEY JR group-title="KIDS"
+#EXTINF:-1 group-title="KIDS",DISNEY JR
 https://speedmindec.tecltda.club/speedmind456123789V1/57_.m3u8
 
-#EXTINF:-1,ESPN group-title="DEPORTES"
+#EXTINF:-1 group-title="DEPORTES",ESPN
 https://speedmindec.tecltda.club/speedmind456123789V1/73_.m3u8
 
-#EXTINF:-1,ESPN + HD group-title="DEPORTES"
+#EXTINF:-1 group-title="DEPORTES",ESPN + HD
 https://speedmindec.tecltda.club/speedmind456123789V1/48_.m3u8
 
-#EXTINF:-1,ESPN 3 group-title="DEPORTES"
+#EXTINF:-1 group-title="DEPORTES",ESPN 3
 https://speedmindec.tecltda.club/speedmind456123789V1/72_.m3u8
 
-#EXTINF:-1,FOX ACTION group-title="ENTRETENIMIENTO"
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX ACTION
 https://speedmindec.tecltda.club/speedmind456123789V1/70_.m3u8
 
-#EXTINF:-1,FOX COMEDY group-title="ENTRETENIMIENTO"
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX COMEDY
 https://speedmindec.tecltda.club/speedmind456123789V1/68_.m3u8
 
-#EXTINF:-1,FOX FAMILY group-title="ENTRETENIMIENTO"
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX FAMILY
 https://speedmindec.tecltda.club/speedmind456123789V1/69_.m3u8
 
-#EXTINF:-1,FOX SPORTS group-title="DEPORTES"
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS
 https://speedmindec.tecltda.club/speedmind456123789V1/74_.m3u8
 
-#EXTINF:-1,FOX SPORTS 2 MX group-title="DEPORTES"
+#EXTINF:-1 group-title="DEPORTES" ,FOX SPORTS 2 MX
 https://speedmindec.tecltda.club/speedmind456123789V1/47_.m3u8
 
-#EXTINF:-1,FOX SPORTS 3 MX group-title="DEPORTES"
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 MX
 https://speedmindec.tecltda.club/speedmind456123789V1/46_.m3u8
 
-#EXTINF:-1,HBO group-title="ENTRETENIMIENTO"
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HBO
 https://speedmindec.tecltda.club/speedmind456123789V1/67_.m3u8
 
-#EXTINF:-1,HBO 2 group-title="ENTRETENIMIENTO"
+#EXTINF:-1 group-title="ENTRETENIMIENTO", HBO 2
 https://speedmindec.tecltda.club/speedmind456123789V1/66_.m3u8
 
-#EXTINF:-1,HBO FAMILY group-title="ENTRETENIMIENTO"
+#EXTINF:-1 group-title="ENTRETENIMIENTO", HBO FAMILY
 https://speedmindec.tecltda.club/speedmind456123789V1/65_.m3u8
 
-#EXTINF:-1,HBO PLUS group-title="ENTRETENIMIENTO"
+#EXTINF:-1 group-title="ENTRETENIMIENTO", HBO PLUS
 https://speedmindec.tecltda.club/speedmind456123789V1/64_.m3u8
 
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES group-title="DEPORTES"
+#EXTINF:-1 group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES
 https://speedmindecV2.tecltda.club/speedmind456123789V2/5_.m3u8
 
-#EXTINF:-1,MTV HD group-title="MUSICA"
+#EXTINF:-1 group-title="MUSICA" MTV HD
 https://speedmindec.tecltda.club/speedmind456123789V1/54_.m3u8
 
-#EXTINF:-1,NAT GEO WILD group-title="DOCUMENTALES"
+#EXTINF:-1 group-title="DOCUMENTALES",NAT GEO WILD
 https://speedmindecV2.tecltda.club/speedmind456123789V2/29_.m3u8
 
-#EXTINF:-1,TELEMUNDO group-title="ENTRETENIMIENTO"
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TELEMUNDO
 https://speedmindec.tecltda.club/speedmind456123789V1/52_.m3u8
 
-#EXTINF:-1,TNT SPORT group-title="DEPORTES"
+#EXTINF:-1 group-title="DEPORTES", TNT SPORT
 https://speedmindec.tecltda.club/speedmind456123789V1/50_.m3u8
 
-#EXTINF:-1,UNICABLE group-title="ENTRETENIMIENTO"
+#EXTINF:-1 group-title="ENTRETENIMIENTO", UNICABLE
 https://speedmindecV2.tecltda.club/speedmind456123789V2/14_.m3u8
 
-#EXTINF:-1,WIN SPORTS group-title="DEPORTES"
+#EXTINF:-1 group-title="DEPORTES", WIN SPORTS
 https://speedmindec.tecltda.club/speedmind456123789V1/44_.m3u8
 
-#EXTINF:-1,WIN SPORTS+ group-title="DEPORTES"
+#EXTINF:-1 group-title="DEPORTES", WIN SPORTS +
 https://speedmindecV2.tecltda.club/speedmind456123789V2/1_.m3u8
