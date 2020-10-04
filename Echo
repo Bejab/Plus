@@ -34,6 +34,11 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="COSTA RICA", Teletica
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO50GKkMPnSgnNRAyCdiguOKE)/dm/3/x29e3wg/s/stream-3-1601848781.ts
+
+
+
 #EXTINF:-1 group-title="COSTA RICA", FUTV
 http://23.237.78.50:2052/live-2/493/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDk6NDU6NTAgUE0maGFzaF92YWx1ZT1EdWhVVUFvR283N2VZTFI4Zmx4VlZ3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
 
