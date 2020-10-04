@@ -33,11 +33,17 @@ https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smi
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 
-#EXTINF:-1 group-title="COSTA RICA", FUTV
-http://23.237.78.50:2052/live-2/493/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDk6MzQ6MTggUE0maGFzaF92YWx1ZT1MZCt1cFBjd3pBdUtXdWxpNGx2bHR3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
 
-#EXTINF:-1 group-title="DEPORTE", FUTV
-http://23.237.78.50:2052/live-2/493/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDk6MzQ6MTggUE0maGFzaF92YWx1ZT1MZCt1cFBjd3pBdUtXdWxpNGx2bHR3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
+#EXTINF:-1 group-title="COSTA RICA", FUTV
+http://23.237.78.50:2052/live-2/493/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDk6NDU6NTAgUE0maGFzaF92YWx1ZT1EdWhVVUFvR283N2VZTFI4Zmx4VlZ3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
+
+#EXTINF:-1 group-title="COSTA RICA", Tigo Sport
+http://23.237.78.50:2052/live-2/494/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDk6NDc6MTIgUE0maGFzaF92YWx1ZT1udmVoWkJJVDUxMU1JaDJyYzBoZ2xRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
+
+
 
 #EXTINF:-1 group-title="DEPORTE", Tigo Sport
-http://23.237.78.50:2052/live-2/493/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDk6MzQ6MTggUE0maGFzaF92YWx1ZT1MZCt1cFBjd3pBdUtXdWxpNGx2bHR3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
+http://23.237.78.50:2052/live-2/494/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDk6NDc6MTIgUE0maGFzaF92YWx1ZT1udmVoWkJJVDUxMU1JaDJyYzBoZ2xRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
+
+#EXTINF:-1 group-title="DEPORTE", FUTV
+http://23.237.78.50:2052/live-2/493/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDk6NDU6NTAgUE0maGFzaF92YWx1ZT1EdWhVVUFvR283N2VZTFI4Zmx4VlZ3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
