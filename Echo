@@ -3,20 +3,8 @@
 #EXTINF:-1 group-title="COSTA RICA",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1 group-title="COSTA RICA",Anexion TV 36
-http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
-
 #EXTINF:-1 group-title="COSTA RICA",Canal UCR
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
-
-#EXTINF:-1 group-title="COSTA RICA",Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u
-
-#EXTINF:-1 group-title="COSTA RICA",Multimedios CR
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 group-title="COSTA RICA",Telesur
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1 group-title="COSTA RICA",TeleUno TV
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
@@ -31,12 +19,6 @@ https://rtmp.info/anexiontv/envivo/playlist.m3u8
 
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/E9AuhOU.png",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/pjRfKkr.jpg",HBTV TICAVISION
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/yr9M9Kj.png",HBTV TICAVISION
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_11.png",Repretel 11
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8
