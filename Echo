@@ -29,6 +29,13 @@ https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal4/smi
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png" ,Repretel 6 | SD
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8
 
+
+
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png" ,Repretel 6 | SD. 
+https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media//repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8
+
+
+
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" ,Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
@@ -39,15 +46,7 @@ https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO50GKkMPnSgnNRAyCdi
 
 
 
-#EXTINF:-1 group-title="COSTA RICA", FUTV | HD
-http://23.237.78.50:2052/live-2/493/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDk6NDU6NTAgUE0maGFzaF92YWx1ZT1EdWhVVUFvR283N2VZTFI4Zmx4VlZ3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
-
-#EXTINF:-1 group-title="COSTA RICA", Tigo Sport
-http://23.237.78.50:2052/live-2/494/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDk6NDc6MTIgUE0maGFzaF92YWx1ZT1udmVoWkJJVDUxMU1JaDJyYzBoZ2xRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
-
-
-
-#EXTINF:-1 group-title="DEPORTE", Tigo Sport
+#EXTINF:-1 group-title="DEPORTE", Tigo Sport | HD
 http://23.237.78.50:2052/live-2/494/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDk6NDc6MTIgUE0maGFzaF92YWx1ZT1udmVoWkJJVDUxMU1JaDJyYzBoZ2xRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
 
 #EXTINF:-1 group-title="DEPORTE", FUTV | HD
