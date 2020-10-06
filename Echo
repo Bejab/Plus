@@ -47,11 +47,10 @@ https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO50GKkMPnSgnNRAyCdi
 
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.tigo.cr/sites/tigodiscovery.cr/files/logo-app-tigosports-destacado.png" , Tigo Sport | HD
-http://23.237.78.50:2052/live-2/494/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDk6NDc6MTIgUE0maGFzaF92YWx1ZT1udmVoWkJJVDUxMU1JaDJyYzBoZ2xRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
+http://23.237.78.50:2052/live-2/494/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDQ6MDU6MTUgQU0maGFzaF92YWx1ZT1Odys0VEY3SWM2ZVNZQ0xLd0JDV1l3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.larepublica.net/storage/images/2020/02/21/20200221184712.futv.jpg" , FUTV | HD
-http://23.237.78.50:2052/live-2/493/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDk6NDU6NTAgUE0maGFzaF92YWx1ZT1EdWhVVUFvR283N2VZTFI4Zmx4VlZ3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
-
+http://23.237.78.50:2052/live-2/493/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDQ6MDc6NTggQU0maGFzaF92YWx1ZT1pVFk2bWxUc1JydG5Kb2NCNE9ZMmZnPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
 
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.larepublica.net/storage/images/2020/02/21/20200221184712.futv.jpg" , FUTV | SD
