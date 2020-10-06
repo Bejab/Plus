@@ -46,13 +46,13 @@ https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO50GKkMPnSgnNRAyCdi
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Tigo_Sports_logo.svg" , Tigo Sport | HD
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.tigo.cr/sites/tigodiscovery.cr/files/logo-app-tigosports-destacado.png" , Tigo Sport | HD
 http://23.237.78.50:2052/live-2/494/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDk6NDc6MTIgUE0maGFzaF92YWx1ZT1udmVoWkJJVDUxMU1JaDJyYzBoZ2xRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQHdkTnvni6JcA/company-logo_200_200/0?e=2159024400&v=beta&t=y4VBc-RnfeSy0bzWqeleTx-73gVcX6W9RRSawJUpdNU" , FUTV | HD
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.larepublica.net/storage/images/2020/02/21/20200221184712.futv.jpg" , FUTV | HD
 http://23.237.78.50:2052/live-2/493/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDk6NDU6NTAgUE0maGFzaF92YWx1ZT1EdWhVVUFvR283N2VZTFI4Zmx4VlZ3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQHdkTnvni6JcA/company-logo_200_200/0?e=2159024400&v=beta&t=y4VBc-RnfeSy0bzWqeleTx-73gVcX6W9RRSawJUpdNU", FUTV | SD
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.larepublica.net/storage/images/2020/02/21/20200221184712.futv.jpg" , FUTV | SD
 http://ui2.mirarelax.xyz:8080/morphitbn/bschfmkmd/32015?token=SRNZU0UMFQkbWlQEVVJRAAcEAQtXBQEPAVRWAFVSV1xUUwgGB10EVg4aG0MREUdQU1hmUFITDwUBVVMMTUAXF1dDbltSRg0RCwgAU0BJF0FbWFwbDAADBgJdVwlUUVVIEEFYVhReFQEIDwVDTkdQTUZQS1dXXWpSVhMLWgRAWApHXV0eFAtZbF1dWgAMARcPEAQbFRRYRkYRXwxMDQ5ORlBYRUBXEFIRA1ZCDQ5JF1ZdQFdNREgXDBEmMBtNQAccRlRfQV8LWREDGkMSQEkXXEFqS1xFRUdTUggHS0NYQFQQHRNfVxxoUFZWWQQBEVxaXEYbAxQGBRQfRw9WDwsWC0BuQVtSRg0RCggCUkAY
