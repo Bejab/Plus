@@ -26,12 +26,12 @@ https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal11/sm
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_4.png",Repretel 4
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png" ,Repretel 6 | SD
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" ,Repretel 6 | SD
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png" ,Repretel 6 | SD. 
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" ,Repretel 6 | SD. 
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media//repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8
 
 
