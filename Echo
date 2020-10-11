@@ -45,6 +45,10 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO50GKkMPnSgnNRAyCdiguOKE)/dm/3/x29e3wg/s/live-3.m3u8
 
 
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" , Teletica | HD. 
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5ySQdHG2F0hj4lt0FuounO4)/dm/3/x29e3wg/s/live-3.m3u8
+
+
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.tigo.cr/sites/tigodiscovery.cr/files/logo-app-tigosports-destacado.png" , Tigo Sport | HD
 http://23.237.78.50:2052/live-2/494/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDQ6MDU6MTUgQU0maGFzaF92YWx1ZT1Odys0VEY3SWM2ZVNZQ0xLd0JDV1l3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
