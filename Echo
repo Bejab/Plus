@@ -45,34 +45,8 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO50GKkMPnSgnNRAyCdiguOKE)/dm/3/x29e3wg/s/live-3.m3u8
 
 
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" , Teletica | HD. 
-https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5ySQdHG2F0hj4lt0FuounO4)/dm/3/x29e3wg/s/live-3.m3u8
-
-
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.tigo.cr/sites/tigodiscovery.cr/files/logo-app-tigosports-destacado.png" , Tigo Sport | HD
 http://23.237.78.50:2052/live-2/494/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMCAxMTowOTo1NCBQTSZoYXNoX3ZhbHVlPWJId0FaK2ZKeHZrelQzREtZdDNSUkE9PSZ2YWxpZG1pbnV0ZXM9MTIwJnN0cm1fbGVuPTEw
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.larepublica.net/storage/images/2020/02/21/20200221184712.futv.jpg" , FUTV | HD
-http://23.237.78.50:2052/live-2/493/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDQ6MDc6NTggQU0maGFzaF92YWx1ZT1pVFk2bWxUc1JydG5Kb2NCNE9ZMmZnPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.larepublica.net/storage/images/2020/02/21/20200221184712.futv.jpg" , FUTV | SD
-http://23.237.78.50:2052/live-2/493/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMCAxMTowODozNSBQTSZoYXNoX3ZhbHVlPWdoN1lxU013ejVWMDlTNC96bURFbEE9PSZ2YWxpZG1pbnV0ZXM9MTIwJnN0cm1fbGVuPTEw
-
-
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO", FOX
-http://138.201.49.141:25464/sinpro/EnBRWOIMRv/91?token=ShMNUhAJQwkXBwZRAQAMXwdSBVZbUQlTAgAFWFBVVA8IBQNXBlQFUQ1DSBFGQUdcVgg7Xl0QCw8ASBVMRgYQZlhVRwlBUlYGF01GR1xYUBsNVFIHCwIBAQRWBxUXEwtdEwtHBVJTUhEZQwFLQVBHV1YJO1NcRFhVVEYNV0APDhUTXgtsBwQMUlsFRgkXBBcVFQwXRxsIX0NdCBsbVwoWS1BFABFZQ1ABAVVGHxdWWkxZERZOGwgTdWNGGxtQGxZcX0IMXA1DWxFBEkYfF1xGZkUAF0NLV1BbVBYVAxdTQBUTXARLPAIOXVsEB0dcWltKFV9GBgwCARQdRlpWWwoWVkNuFVoHQ1sRBFNdAwYXSA==
-
-
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" ,MX: Fox
-http://emiraytv.ddns.net:25461/LISTANIÑOS/BUSCANOSENFACEBOOK/5105
-
-
-#EXTINF:-1 group-title="CULTURAL" , Discovery H&H
-http://138.201.49.141:25464/sinpro/EnBRWOIMRv/37?token=ShMNUhAJQwkXVQdWVAQCW1VUVQ8BVAUABwJVDgxUVQBSBABXVQUHBgdDSBFGQUdcVgg7Xl0QCwUGSBVMRgYQZlhVRwlBUlYGF01GR1xYUBsNVFIHCwIAAgBRBRUXEwtdEwtHBlRZUxEZQwFLQVBHV1YJO1NcRFhVVEYNV0APDhUTXgtsBwQMUlsFRgkXBBcVFQwXRxsIX0NdCBsbVwoWS1BFABFZQ1ABAFRGHxdWWkxZERZOGwgTdWNGGxtQGxZcX0IMXA1DWxFBEkYfF1xGZkUAF0NLV1BbVBYVAxdTQBUTXARLPAIOXVsEB0dcWltKFV9GBgwCARQdRlpWWwoWVkNuFVoHQ1sRB1JQCgYXSA==
-
-#EXTINF:-1 group-title="CULTURAL" , Discovery H&H | SD
-http://23.237.78.50:2052/live-sd/364/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDg6MDU6MzMgUE0maGFzaF92YWx1ZT1ra2VMY2hBUUgycytNb09UTTZCRVR3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMQ==
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.larepublica.net/storage/images/2020/02/21/20200221184712.futv.jpg" , FUTV
