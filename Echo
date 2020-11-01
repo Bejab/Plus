@@ -39,7 +39,7 @@ https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO50GKkMPnSgnNRAyCdi
 http://23.237.78.50:2052/live-2/494/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMCAxMTowOTo1NCBQTSZoYXNoX3ZhbHVlPWJId0FaK2ZKeHZrelQzREtZdDNSUkE9PSZ2YWxpZG1pbnV0ZXM9MTIwJnN0cm1fbGVuPTEw 
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.larepublica.net/storage/images/2020/02/21/20200221184712.futv.jpg" , FUTV 
-http://23.237.78.50:2052/live-2/493/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMCAzOjA0OjQ0IEFNJmhhc2hfdmFsdWU9MlJBTW95dllpR0ttTkZPQkdoYzFsUT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA= 
+http://172.93.101.135:14365/live/cyx_zee7TrreqEtQxs7g2zs.ts?user_id=30279350&dev_id=3082b18233e1c77686fab0b948da34a5&trans_id=QsP2scfOjOV_plQx0c8QL20S&dead_time=1604280772&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30401&client_ip=200.9.52.43&auth_id=30279350_com.mobile.telelatinomobile&token=d1ca5dda4994b2622203da780349fcb6
 
 #EXTINF:-1 group-title="DEPORTE", ESPN 2 
 http://23.237.78.50/live-1000/263/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMCA0OjU0OjU4IFBNJmhhc2hfdmFsdWU9L1VzMWlKUkM0RzduWEhjWEZGNm5rUT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTM=
