@@ -24,16 +24,10 @@ https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal11/sm
 https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8 
 
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" ,Repretel 6 | SD 
-https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8 
-
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" ,Repretel 6 | SD. 
-https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media//repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8 
+https://cr-repretel-canal6-live.ned.media:443/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA4MjIzMjk1LCJzZXNzaW9uIjoiMjAxLjE5Mi4xNzEuMjQ2Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTIuMTcxLjI0NiJdfSwic2lnbmF0dXJlIjoiNmE2MmNjMGE5MGYyYjIzZTBmNjhmZTdmY2U5OGU2NjI5YzY2MzE1ZiJ9
 
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" ,Telesur 
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8 
 
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" , Teletica | HD 
-https://www.dailymotion.com/video/x29e3wg
-
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" , Teletica | HD. 
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO56NfBMThUkouoVhs5n9OpTI)/dm/3/x29e3wg/s/live-2.m3u8
+https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53Y1-IkW02qHyEIhzeCHyR8)/dm/3/x29e3wg/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
