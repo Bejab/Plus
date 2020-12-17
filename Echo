@@ -31,3 +31,6 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" , Teletica | HD 
 https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53Y1-IkW02qHyEIhzeCHyR8)/dm/3/x29e3wg/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+#EXTINF:-1 group-title="COSTA RICA", FUTV 
+https://prod-live-us-central1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_JQCZWMHc/wixmp-3dbd5cb16bb136182e099f78_JQCZWMHc_.m3u8
