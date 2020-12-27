@@ -30,7 +30,7 @@ https://cr-repretel-canal6-live.ned.media:443/repretel/canal6/smil:live.smil/chu
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8 
 
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" , Teletica | HD 
-https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO52lNcif15dQw1hUsic9fUBg)/dm/3/x29e3wg/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5zgC31qzzkXoiPz16g3WifE)/dm/3/x29e3wg/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 #EXTINF:-1 group-title="COSTA RICA", FUTV 
 https://prod-live-us-central1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_JQCZWMHc/wixmp-3dbd5cb16bb136182e099f78_JQCZWMHc_.m3u8
